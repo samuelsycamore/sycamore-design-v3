@@ -1,0 +1,45 @@
+{
+  "name": "Sycamore Design",
+  "description": "The internet home of Sam Sycamore, writer and web developer.",
+  "url": "https://www.sycamore.design",
+  "author": {
+    "name": "Sam Sycamore",
+    "email": "sam@sycamore.design",
+    "twitterHandle": "tanoaksam"
+  },
+  "defaultSocialImage": "/images/default-social-image.png",
+  "headerLinks": [
+    {
+      "text": "Blog",
+      "url": "https://blog.sycamore.design",
+      "external": true
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "text": "Blog",
+      "url": "https://blog.sycamore.design",
+      "external": true
+    },
+    {
+      "text": "Polywork",
+      "url": "https://work.sycamore.design/",
+      "external": true
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/tanoaksam",
+      "external": true
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/samuelsycamore",
+      "external": true
+    }
+  ]
+}
