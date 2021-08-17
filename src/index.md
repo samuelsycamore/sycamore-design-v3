@@ -3,10 +3,15 @@ layout: home
 title: 'Sycamore Design'
 ---
 
-## Sam Sycamore
+## Welcome to the internet home of Sam Sycamore. 
 
-Writer, web developer. 
+This is where I keep all my online stuff. Feel free to rummage through it.
 
-Solar-powered off-grid mountain dweller.
+What do you wanna do? Here are your options:
 
-Content Strategy & Marketing at [Hashnode](https://www.hashnode.com/).
+- learn more [about me](/about)
+- sign up for [my newsletter](/newsletter)
+- read [my blog](https://blog.sycamore.design)
+- peep [my work history](https://work.sycamore.design)
+- follow me on [the socials](/social)
+

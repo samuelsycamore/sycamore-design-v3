@@ -9,7 +9,7 @@
 .header__content {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   margin-left: auto;
   margin-right: auto;
@@ -17,6 +17,11 @@
   padding: 1rem;
   margin-top: 1rem;
   border-bottom: 1px solid #d9e1e8;
+}
+
+.header__content img {
+  max-width: 500px;
+  margin-bottom: 10px;
 }
 
 .site-title {
@@ -36,7 +41,9 @@
 
 .nav__list {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 100%;
   list-style: none;
   font-size: var(--text-base);
   padding-top: 0.5rem;

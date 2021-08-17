@@ -5,7 +5,8 @@ html {
 }
 
 body {
-  background-color: var(--background);
+  background: rgb(40,44,55);
+  background: radial-gradient(circle, rgba(71,79,98,1) 0%, rgba(40,44,55,1) 100%);
 }
 
 body::-webkit-scrollbar {

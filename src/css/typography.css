@@ -13,7 +13,7 @@
 
 body {
   font-size: var(--text-lg);
-  line-height: 1.54;
+  line-height: 1.3em;
   color: var(--color);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -24,17 +24,14 @@ body {
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
-h2 {
-  font-weight: 900;
-  line-height: 0.9em;
-  margin: 0;
-}
 h1,
+h2,
 h3,
 h4,
 h5,
 h6 {
-  line-height: 0.1em;
+  line-height: 1em;
+  margin-bottom: 50px;
   font-weight: 400;
   color: var(--color);
 }
@@ -61,4 +58,5 @@ h4 {
 
 p {
   font-size: var(--text-lg);
+  margin-bottom: 20px;
 }

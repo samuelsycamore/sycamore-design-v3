@@ -3,10 +3,6 @@
   flex-direction: column;
 }
 
-.hero h1 {
-  font-size: var(--text-5xl);
-}
-
 .hero__social-links {
   display: flex;
   flex-wrap: wrap;
