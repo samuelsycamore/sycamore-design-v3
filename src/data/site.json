@@ -28,11 +28,6 @@
       "text": "About",
       "url": "/about",
       "external": false
-    },
-    {
-      "text": "Contact",
-      "url": "/contact",
-      "external": false
     }
   ]
 }
