@@ -7,11 +7,6 @@
   font-size: var(--text-5xl);
 }
 
-.hero p {
-  font-size: var(--text-2xl);
-  margin-top: 1rem;
-}
-
 .hero__social-links {
   display: flex;
   flex-wrap: wrap;
